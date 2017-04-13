@@ -57,3 +57,21 @@ By The Open Source Club
 * Show me one person who owns an Ubuntu phone. It's OK, I'll wait.
 * Ubuntu now going to be using Wayland/Gnome
 * [Bryan Lunduke Must Be Very Happy](https://www.youtube.com/watch?v=SMKeWTVYBUo)
+
+# Twitter fights the government
+* [DHS and CBP demanded the identity of @ALT_uscis with no clear reason](http://www.reuters.com/article/us-twitter-lawsuit-idUSKBN1782PH)
+* [Twitter sueing to prevent DHS and CBP from abusing investigatory tools](https://www.documentcloud.org/documents/3538047-Twitter-Complaint.html)
+* Twitter has sued over information requests before
+
+# [Grid Garden for learning CSS grids](http://cssgridgarden.com/)
+* CSS grids are now in all major browsers](http://caniuse.com/#search=css%20grid)
+* Grid Garden from the same guy as [Flexbox Froggy](http://flexboxfroggy.com/)
+
+
+
+# FIN
+* Anything we missed?
+* Feel free to share!
+* [http://go.osu.edu/osc_irc](http://go.osu.edu/osc_irc)
+* Show up at [ShowOHI/O](http://hack.osu.edu/show/2017/) and check out cool things made this semester.
+
