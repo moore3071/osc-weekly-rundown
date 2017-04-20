@@ -1,0 +1,67 @@
+---
+theme: metropolis
+defcolor:
+  -
+    name: OSCRed
+    rgb: 152,27,30
+  -
+    name: LighterGray
+    rgb: 240,240,240
+  -
+    name: DarkerGray
+    rgb: 60,60,60
+setcolor:
+  -
+    type: normal text
+    fg: DarkerGray
+    bg: LighterGray
+  -
+    type: alerted text
+    fg: OSCRed
+    bg: LighterGray
+  -
+    type: frametitle
+    fg: OSCRed
+    bg: LighterGray
+---
+
+## This week in technology, open source, and Linux!
+
+By The Open Source Club
+
+![OSC Logo](../../common/osc-logo.pdf "Open Source Club at Ohio State Logo")
+
+# Disclaimer
+* The views expressed in this presentation are those of the presentator(s).
+* They are not endorsed by or affiliated with any of the people, companies, or entities mentioned.
+* No guarantees are made that the information in this presentation is free of errors.
+
+# Contributing to the weekly rundown
+* Have something you'd like to talk about or see on the weekly meetings?
+* Feel free to add it to the weekly rundown!
+* Repository is available on [GitHub](https://github.com/OSUOSC/osc-weekly-rundown)
+
+# [Unicode domain phishing](https://hackaday.com/2017/04/19/you-think-you-cant-be-phished/)
+* Fixed in Chrome 58+
+* Firefox can temporarily avoid it by setting network.IDN_show_punycode to true in about:config
+
+# [Understanding how we speak- Pink Trombone](http://allthingslinguistic.com/post/158603785146/pink-trombone-is-a-clickable-simulator-of-the)
+* [Pink Trombone allows you to move around the parts of the mouth and hear the sounds made](https://dood.al/pinktrombone/)
+* [View the unicode equivalent with sagittal section](http://smu-facweb.smu.ca/~s0949176/sammy/)
+* [Best use of Pink Trombone thus far](https://www.youtube.com/watch?v=7LGnozlwU1o)
+
+# Quick news
+* [System76 moving manufacturing in house](http://blog.system76.com/post/159767214983/entering-phase-three)
+* [Ipython drops support for 2.7](https://ipython.readthedocs.io/en/stable/whatsnew/version6.html)
+* [London Police illegally monitoring activists and journalists](https://www.wsws.org/en/articles/2017/04/15/hack-a15.html)
+* [Bose collected audio info from users via their app](http://fortune.com/2017/04/19/bose-headphones-privacy/)
+
+# A farewell to graduating seniors
+* All graduating seniors please come to the front of the room
+
+# Fin
+
+* Anything we missed?
+* Feel free to share!
+* [http://go.osu.edu/osc_irc](http://go.osu.edu/osc_irc)
+* Go eat pizza
